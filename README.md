@@ -1,7 +1,7 @@
 ## Blog Posts with Flask
 
-This an exercise for creating a blog posts site using python and Flask. 
-This repo is create for educaitonal purposes only and follows the instructions provided by [DigitalOcean.](https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3) 
+This a coding exercise setting up blog posts website using python, Flask and sqlite3.  
+This repo is created for educaitonal purposes only and follows the instructions provided by [DigitalOcean.](https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3) 
 
 
 ### Intro
